@@ -1,0 +1,15 @@
+﻿body
+{
+    background-color: crimson;
+}
+li a
+{
+    background-color:crimson;
+    color: floralwhite;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 5px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 20px;
+}
