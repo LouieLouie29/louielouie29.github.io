@@ -1,12 +1,12 @@
 ﻿body 
 {
-    background-color: crimson;
+    background-color: white;
 }
 
 div
 {
     font-size: 16px;
-    color: white;
+    color: crimson;
 }
 
 nav
@@ -19,8 +19,8 @@ nav
 
 li a 
 {
-    background-color: crimson;
-    color: white;
+    background-color: white;
+    color: crimson;
     text-transform: uppercase;
     text-decoration: none;
     margin: 5px;

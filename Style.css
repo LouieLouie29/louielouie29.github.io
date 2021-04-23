@@ -1,6 +1,6 @@
 ﻿body 
 {
-    background-color: crimson;
+    background-color: white;
     
 }
 
@@ -13,8 +13,8 @@ h1
 
 #links
 {
-    background-color: crimson;
-    color: floralwhite;
+    background-color: white;
+    color: crimson;
     text-transform: uppercase;
     text-decoration: none;
     margin: 5px;
