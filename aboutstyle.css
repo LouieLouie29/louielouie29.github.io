@@ -19,8 +19,8 @@ nav
 
 li a 
 {
-    background-color: white;
-    color: crimson;
+    background-color: crimson;
+    color: white;
     text-transform: uppercase;
     text-decoration: none;
     margin: 5px;
