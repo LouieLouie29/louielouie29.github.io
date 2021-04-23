@@ -1,0 +1,26 @@
+﻿body {
+    background-color: white;
+}
+
+div {
+    font-size: 16px;
+    color: crimson;
+}
+
+nav {
+    background-color: crimson;
+    float: left;
+    height: 100vh;
+    padding: 15px;
+}
+
+li a {
+    background-color: white;
+    color: crimson;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 5px;
+    padding: 1em 1.5em;
+    display: block;
+    border-radius: 20px;
+}
