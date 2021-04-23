@@ -9,11 +9,23 @@ h1
     text-align: center;
     font-size: 350%;
     color: crimson;
-    font-family: Arial;
+    font-family: Arial, 
 }
 
-#links
-{
+nav {
+    background-color: crimson;
+    float: left;
+    height: 100vh;
+    padding 15px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
     background-color: white;
     color: crimson;
     text-transform: uppercase;
